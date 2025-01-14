@@ -65,7 +65,7 @@ const About = () => {
           <div className="absolute inset-0 bg-gradient-to-r from-orange-400 via-purple-700  to-orange-700 opacity-30 animate-gradient-xy">
             {" "}
           </div>
-          <div className="flex   flex-col sm:flex-col sm:flex-row p-6">
+          <div className="flex flex-col sm:flex-row p-6">
             <Image src={pc} alt="pc" className=" w-[130px] h-auto sm:w-auto sm:h-[130px]" />
             <div className="flex flex-col mt-4">
               <h2 className="text-2xl font-bold text-white/80">
