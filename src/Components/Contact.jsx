@@ -8,7 +8,7 @@ import { IoNewspaperOutline } from "react-icons/io5";
 const Contact = () => {
   return (
     <div
-      className="max-w-[1100px] mx-auto flex flex-col lg:flex-row text-white/70 p-8 rounded-lg space-y-8 lg:space-y-0 lg:space-x-8 bg-black"
+      className="max-w-[1100px] mx-auto flex flex-col lg:flex-row text-white/70 p-8  space-y-8 lg:space-y-0 lg:space-x-8 bg-black"
       id="contact"
     >
       <div className="flex flex-col md:flex-row gap-4 md:gap-0 justify-center items-center  w-full">
